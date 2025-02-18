@@ -30,6 +30,7 @@ http://0.0.0.0:8000/docs#
 SECRET_KEY="3fj#d9j4p!ow0o#xzrxq#d2@l4u5w%sz2bm49abk8q"
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 ALGORITHM="HS256"
+EXPIRES_AT=30
 DATABASE_URL="sqlite+aiosqlite:///./sqlite.db"
 ```
 
